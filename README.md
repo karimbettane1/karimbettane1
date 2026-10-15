@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karimbettane1&label=Profile%20views&color=0e75b6&style=flat" alt="karimbettane1" />
-  <a href="https://kbettane.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Karim%20Bettane-2ea44f?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://karimbettane1.github.io/por/"><img src="https://img.shields.io/badge/Portfolio-Karim%20Bettane-2ea44f?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:karimbettane94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -18,7 +18,7 @@ I'm a **Full Stack Web Developer** who loves turning ideas into working products
 - 💼 Looking for **internships / junior Full Stack positions**
 - 💬 Ask me about **React, Laravel, MySQL, REST APIs, Tailwind CSS, Vite**
 - 📫 How to reach me **karimbettane94@gmail.com**
-- 📝 Check out my latest work → **[kbettane.vercel.app](https://kbettane.vercel.app)**
+- 📝 Check out my latest work → **[karimbettane1.github.io/por](https://karimbettane1.github.io/por/)**
 - ⚡ Fun fact **I rebuild a project I like from scratch just to see how it was done**
 
 ---
@@ -26,7 +26,7 @@ I'm a **Full Stack Web Developer** who loves turning ideas into working products
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://kbettane.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://karimbettane1.github.io/por/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/karimbettane1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://instagram.com/k_bettane" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:karimbettane94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -67,7 +67,7 @@ I'm a **Full Stack Web Developer** who loves turning ideas into working products
 | 🏥 **[MedCare](https://github.com/karimbettane1/MedCare)** — medical appointment platform (graduation project): patients, doctors, appointments, admin dashboard | Laravel API · React · MySQL | _private demo_ |
 | 🎓 **[Digital Academy](https://github.com/karimbettane1/edu)** — e-learning resource platform inspired by ofppt.info for the Digital Development & Digital Infrastructure tracks, with quizzes, multilingual UI (FR/AR/EN) | Laravel + Sanctum · React 19 · Vite · Tailwind · i18next | _self-hosted_ |
 | 🧮 **[Calculatrice Pro](https://github.com/karimbettane1/calcul)** — calculator with statistics dashboard and d3 charts | Vanilla JS · d3 · GitHub Pages | **[Live](https://karimbettane1.github.io/calcul/)** |
-| 🕶️ **[Portfolio](https://github.com/karimbettane1/por)** — personal portfolio site, deployed with GitHub Actions | React · TypeScript · Vite · Tailwind | **[Live](https://kbettane.vercel.app)** |
+| 🕶️ **[Portfolio](https://github.com/karimbettane1/por)** — personal portfolio site, deployed with GitHub Actions | React · TypeScript · Vite · Tailwind | **[Live](https://karimbettane1.github.io/por/)** |
 
 ---
 
@@ -82,14 +82,10 @@ I'm a **Full Stack Web Developer** who loves turning ideas into working products
   <img src="https://streak-stats.demolab.com/?user=karimbettane1&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karimbettane1&theme=radical&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
-</p>
-
 ---
 
 <p align="center">
-  <a href="https://kbettane.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Laravel+%E2%80%A2+MySQL;Always+shipping+something+new;Let%27s+build+something+useful" alt="Typing SVG" /></a>
+  <a href="https://karimbettane1.github.io/por/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;React+%E2%80%A2+Laravel+%E2%80%A2+MySQL;Always+shipping+something+new;Let%27s+build+something+useful" alt="Typing SVG" /></a>
 </p>
 
 <!-- Proudly maintained by Karim Bettane -->
